@@ -1,16 +1,15 @@
 * {
-  padding: 0;
   margin: 0;
+  padding: 0;
   box-sizing: border-box;
   -webkit-font-smoothing: antialiased;
+  font-family: "Inter", sans-serif;
   color: #fff;
 }
 
 html {
   font-size: 62.5%;
-  font-family: "Inter", sans-serif;
   background-color: #0a0b0d;
-  // font-family: 'Space Grotesk', sans-serif;
 }
 
 img {
@@ -19,8 +18,8 @@ img {
 }
 
 a {
-  display: block;
   text-decoration: none;
+  display: block;
 }
 
 button {
